@@ -10,7 +10,7 @@
 # This script reduces some of the donkey work involved in preparing speech
 # data for analysis and processing:
 # It does the following:
-#     1. Cleans up the recording by remove low-freqency noise.
+#     1. Cleans up the recording by removing low-freqency noise.
 #     2. Automatically chunks the recording into separate phrases / repetitions
 #        based on regions of silence (using "To Textgrid ( silences)" function).
 #     3. Displays the automatic textgrid annotation to allow for manual
